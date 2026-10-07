@@ -1,0 +1,74 @@
+CASTILLO BLANCO · WEB V4
+=======================
+
+ABRIR LA PÁGINA
+1. Extrae TODO el ZIP en una carpeta.
+2. Abre index.html con Microsoft Edge o Google Chrome.
+3. Mantén assets, styles.css, script.js y config.js junto a index.html.
+No necesita instalación ni conexión para mostrar su diseño.
+
+QUÉ CAMBIÓ
+- Nuevo diseño adaptable a celular, tablet y escritorio.
+- Se conserva el nombre y el mismo archivo de logo original de la V3.
+- Portada inspirada en la referencia, con castillo y presentación ilustrativa de CAMI.
+- CAMI se presenta como calculadora de ganancias: producto, cantidad,
+  logos, envío, publicidad e IVA. La pantalla de portada es ilustrativa;
+  no reemplaza la app ni ofrece un cálculo real en esta web.
+- Se presenta CAMI como la única app actual, todavía en preparación para
+  Google Play, tal como figuraba en la V3.
+- Sección de desarrollo personalizado y proceso de pago 50% / 50%.
+- Formulario con validación, resumen revisable y descarga de solicitud.
+- Contacto por llamada, WhatsApp y correo listo para configurar.
+- Preguntas frecuentes y páginas independientes de privacidad y términos.
+
+ACTIVAR TUS DATOS REALES
+Abre config.js con el Bloc de notas. Completa entre las comillas:
+telefono: tu número en formato internacional (+56 seguido del número real).
+telefonoVisible: el mismo número como quieras mostrarlo al público.
+whatsapp: tu número de WhatsApp, internacional y solo dígitos.
+correo: tu correo oficial de atención.
+googlePlayUrl: el enlace oficial de CAMI cuando esté publicada.
+Guarda el archivo y vuelve a abrir la página. No uses los números ilustrativos
+comentados en ese archivo como datos reales.
+
+El número activa el botón de llamada en Contacto. WhatsApp y correo activan
+sus botones de contacto y el envío desde el resumen de la solicitud.
+Abrir WhatsApp o correo prepara el mensaje: el cliente debe enviarlo allí.
+No se envían correos automáticamente. Se requiere una aplicación de correo
+configurada para utilizar mailto. Un mensaje largo puede superar el límite
+de una aplicación de mensajería; el cliente puede descargar y adjuntar su
+solicitud en ese caso. No hay base de datos ni bandeja de pedidos en esta web.
+
+ANTICIPO DEL 50%
+El flujo comercial está diseñado así:
+1. Cliente prepara y comparte su solicitud.
+2. Castillo Blanco envía una propuesta con alcance, precio y plazo.
+3. Cliente aprueba la propuesta.
+4. Se coordinan instrucciones y pago del 50% de esa cotización.
+5. Se desarrolla, revisa y coordina el 50% restante antes de la entrega final.
+
+"Ya tengo una cotización" permite introducir la referencia del proyecto y
+solicitar las instrucciones por un medio oficial configurado. No cobra ni
+confirma pagos. Actualmente NO existe una pasarela conectada.
+Para cobrar en línea se necesita elegir y configurar tu proveedor de pago
+con el importe/referencia de cada cotización y la confirmación de pago.
+No se incluyeron credenciales, números de teléfono, correos o cuentas inventadas.
+
+ANTES DE PUBLICAR
+- Completar teléfono, correo y, si corresponde, WhatsApp.
+- Confirmar el estado de CAMI y agregar su enlace oficial si ya está publicada.
+- Acordar proveedor o medio de pago, cotización y condiciones de cada proyecto.
+- Completar en privacidad la información del responsable y atención oficial.
+- Revisar términos y condiciones según la propuesta comercial definitiva.
+- Publicar todos los archivos de la carpeta en un alojamiento web con HTTPS.
+
+PRIVACIDAD Y LOGO
+El formulario se mantiene en memoria mientras la página está abierta.
+No incluye cookies de analítica, almacenamiento local ni rastreadores.
+La descarga contiene los datos del cliente. No se sube automáticamente.
+La política se encuentra en privacidad.html, no desplegada en la portada.
+El logo assets/v2/castillo-logo.png conserva exactamente los bytes de la V3.
+Se usa sin filtros de color, sobre superficies blancas, para que no vuelva a
+aparecer como un cuadrado blanco sin figura en fondos oscuros.
+
+Incluida: vista_previa.png, una captura de la portada en escritorio.
